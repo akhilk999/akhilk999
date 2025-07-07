@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Science '28 @ Texas A&M
-Webmaster & Software Dev for [Aggie Robotics](https://github.com/whooprobotics) (VEXU WHOOP)
-PR Chair for TAMU CSA
-SWE Intern for [KonfHub]([url](https://konfhub.com/))
+Computer Science '28 @ Texas A&M  
+Webmaster & Software Dev for [Aggie Robotics](https://github.com/whooprobotics) (VEXU WHOOP)  
+PR Chair for TAMU CSA  
+SWE Intern for [KonfHub](https://konfhub.com/)
