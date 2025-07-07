@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Akhil!
 
 <!--
 **akhilk999/akhilk999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Computer Science '28 @ Texas A&M
+Webmaster & Software Dev for [Aggie Robotics](https://github.com/whooprobotics) (VEXU WHOOP)
+PR Chair for TAMU CSA
+SWE Intern for [KonfHub]([url](https://konfhub.com/))
