@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Computer Science '28 @ Texas A&M  
 Webmaster & Software Dev for [Aggie Robotics](https://github.com/whooprobotics) (VEXU WHOOP)  
-PR Chair for TAMU CSA  
+PR Chair for [TAMU CSA](https://tamucsa1963.wixsite.com/tamucsa/home)  
 SWE Intern for [KonfHub](https://konfhub.com/)
